@@ -1,0 +1,34 @@
+name: uts
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Font dan Icon
+  google_fonts: ^6.1.0
+  flutter_vector_icons: ^2.0.0
+
+  # Tema dan Grafik
+  fl_chart: ^0.65.0
+  cupertino_icons: ^1.0.8
+
+  # Logic / State Management
+  http: ^1.4.0
+  get: ^4.7.2
+
+  # Format Tanggal
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
