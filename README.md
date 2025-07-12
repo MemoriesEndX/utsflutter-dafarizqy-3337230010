@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # uts
 
 UTS PEMROGRAMAN SISTEM MOBILE
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# utsflutter-dafarizqy-3337230010
+this is a repository for uts pemograman mobile
+>>>>>>> 1102a0436c7252f0162fba6033a5079d14b2a677
