@@ -1,21 +1,27 @@
-<<<<<<< HEAD
-# uts
+# 📱 UTS Pemrograman Mobile - Dafa Rizqy (3337230100)
 
-UTS PEMROGRAMAN SISTEM MOBILE
+Selamat datang di repository UTS Pemrograman Mobile milik Dafa Rizqy (NIM: 3337230100). Proyek ini dibuat menggunakan **Flutter** sebagai bagian dari penilaian Ujian Tengah Semester.
 
-## Getting Started
+## 📌 Deskripsi Aplikasi
 
-This project is a starting point for a Flutter application.
+Aplikasi ini merupakan contoh implementasi Flutter yang mencakup:
 
-A few resources to get you started if this is your first Flutter project:
+- Navigasi antar halaman
+- Penggunaan stateful widget
+- Tampilan UI responsif
+- Interaksi sederhana pengguna (form input, button, dll)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧑‍💻 Teknologi yang Digunakan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# utsflutter-dafarizqy-3337230010
-this is a repository for uts pemograman mobile
->>>>>>> 1102a0436c7252f0162fba6033a5079d14b2a677
+- **Flutter** 3.x
+- **Dart** language
+- IDE: Visual Studio Code
+- Emulator/Perangkat Fisik Android
+
+## 🚀 Cara Menjalankan Proyek
+
+1. Clone repository ini:
+
+   ```bash
+   git clone https://github.com/MemoriesEndX/utsflutter-dafarizqy-3337230010.git
+   cd utsflutter-dafarizqy-3337230010
